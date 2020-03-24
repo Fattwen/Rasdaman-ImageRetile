@@ -1,5 +1,5 @@
 # Rasdaman-ImageRetile
-用於拼次處理過大且無法一次性匯入Rasdaman Database 的影像  
+用於次處理過大且無法一次性匯入Rasdaman Database 的影像  
 使用gdal_retile.py 進行處理
 
 * 使用方法：  
